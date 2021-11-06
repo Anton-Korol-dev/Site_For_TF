@@ -25,6 +25,14 @@ body h2 {
     color: orangered;
 }
 
+.prime-cores-title{
+    color: orange;
+}
+
+.prime-cores-hp {
+    color: green;
+}
+
 .cores-red-color {
     color: red;
 }
@@ -81,7 +89,7 @@ body h2 {
     width: 100px;
 }
 
-.prime-cores-title{
+.prime-cores{
     width: 100px;
     height: 100px;
 }
