@@ -64,27 +64,6 @@ body h2 {
     color: red;
 }
 
-.wiki-content-table-building-cores {
-    width: 100%;
-    background:white;
-    color: rgb(0, 0, 0);
-    font-size: 30px;
-    border: 1px solid #000;
-    border-collapse: collapse;
-    text-align: center;
-}
-
-.wiki-content-table-bulding-cores th {
-    background: #ccc;
-    border: 1px solid #000;
-}
-
-.wiki-content-table-building-cores td { 
-    padding: 4px;
-    border: 1px solid #000;
-    border-collapse: collapse;
-}
-
 .wiki-combat-content-table th {
     width: 50%;
     background: #ccc;
