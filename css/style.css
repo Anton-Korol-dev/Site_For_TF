@@ -65,14 +65,14 @@ body h2 {
 }
 
 .wiki-content-table-bulding-cores th {
-    width: 50%;
+    width: 100%;
     background: #ccc;
     border: 1px solid #000;
     font-size: 20px;
 }
 
 .wiki-content-table-building-cores td { 
-    width: 50%;
+    width: 100%;
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
