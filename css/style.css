@@ -60,6 +60,26 @@ body h2 {
   border: 1px solid #000;
   border-collapse: collapse;
 }
+
+.wiki-building-cores-content-table {
+    width: 100%;
+    background:white;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.wiki-building-cores-content-table th {
+  background: #ccc;
+  border: 1px solid #000;
+}
+.wiki-building-cores-content-table td {
+  padding: 4px;
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
 .wiki-content-table a {
     color: red;
 }
