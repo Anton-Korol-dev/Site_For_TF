@@ -74,11 +74,13 @@ body h2 {
 .wiki-building-cores-content-table th {
   background: #ccc;
   border: 1px solid #000;
+  font-size: large;
 }
 .wiki-building-cores-content-table td {
   padding: 4px;
   border: 1px solid #000;
   border-collapse: collapse;
+  font-size: medium;
 }
 .wiki-content-table a {
     color: red;
