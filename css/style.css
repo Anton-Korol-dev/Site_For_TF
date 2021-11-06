@@ -54,20 +54,20 @@ body h2 {
 }
 .wiki-content-table a {
     color: red;
-  }
+}
 
 .wiki-combat-content-table th {
     width: 50%;
     background: #ccc;
     border: 1px solid #000;
-  }
+}
 
-  .wiki-combat-content-table td {
-      width: 50%;
+.wiki-combat-content-table td { 
+    width: 50%;
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
-  }
+}
 
 .sides_of_main_table
 {
@@ -81,7 +81,7 @@ body h2 {
     width: 100px;
 }
 
-.power-cores {
+.prime-cores-title{
     width: 100px;
     height: 100px;
 }
