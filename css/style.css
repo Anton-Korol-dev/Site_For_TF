@@ -68,7 +68,7 @@ body h2 {
     width: 50%;
     background: #ccc;
     border: 1px solid #000;
-    font-size: 150%;
+    font-size: 20px;
 }
 
 .wiki-content-table-building-cores td { 
@@ -76,7 +76,7 @@ body h2 {
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
-    font-size: 125%;
+    font-size: 15px;
 }
 
 .wiki-combat-content-table th {
