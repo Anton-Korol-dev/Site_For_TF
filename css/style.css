@@ -84,7 +84,7 @@ body h2 {
 }
 
 .wwiki-bot-cores-content-table th {
-    width: 100%;
+    width: auto;
     background:white;
     color: rgb(0, 0, 0);
     font-size: 18px;
