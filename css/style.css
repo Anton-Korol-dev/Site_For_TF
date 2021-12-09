@@ -111,6 +111,12 @@ body h2 {
     width: 100px;
 }
 
+.sides_of_bot-cores_table
+{
+    table-layout: auto;
+    width: 300px;
+}
+
 .prime-cores{
     width: 100px;
     height: 100px;
