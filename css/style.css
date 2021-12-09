@@ -98,7 +98,7 @@ body h2 {
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
-    /* word-break: break-word; */
+    word-break: break-word;
 }
 
 .sides_of_main_table
