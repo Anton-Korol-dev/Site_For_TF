@@ -78,14 +78,22 @@ body h2 {
     color: red;
 }
 
-.wiki-combat-content-table th {
-    width: 50%;
+.wiki-bot-cores-content-table th {
     background: #ccc;
     border: 1px solid #000;
 }
 
-.wiki-combat-content-table td { 
-    width: 50%;
+.wwiki-bot-cores-content-table th {
+    width: 100%;
+    background:white;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.wiki-bot-cores-content-table th{ 
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
