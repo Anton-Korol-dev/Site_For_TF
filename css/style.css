@@ -81,10 +81,11 @@ body h2 {
 .wiki-bot-cores-content-table th {
     background: #ccc;
     border: 1px solid #000;
+    font-size: 25px;
 }
 
 .wwiki-bot-cores-content-table{
-    width: auto;
+    width: 200px;
     background:white;
     color: rgb(0, 0, 0);
     font-size: 18px;
@@ -97,6 +98,7 @@ body h2 {
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
+    font-size: 20px;
 }
 
 .sides_of_main_table
