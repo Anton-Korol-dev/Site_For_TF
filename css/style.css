@@ -83,7 +83,7 @@ body h2 {
     border: 1px solid #000;
 }
 
-.wwiki-bot-cores-content-table th {
+.wwiki-bot-cores-content-table{
     width: auto;
     background:white;
     color: rgb(0, 0, 0);
@@ -93,7 +93,7 @@ body h2 {
     text-align: center;
 }
 
-.wiki-bot-cores-content-table th{ 
+.wiki-bot-cores-content-table td{ 
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
