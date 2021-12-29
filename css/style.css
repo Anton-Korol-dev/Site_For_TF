@@ -78,12 +78,12 @@ body h2 {
     color: red;
 }
 
-.wiki-bot-cores-content-table th {
+.wiki-universal_bot-cores-content-table th {
     background: #ccc;
     border: 1px solid #000;
 }
 
-.wiki-bot-cores-content-table{
+.wiki-universal_bot-cores-content-table{
     width: 600px;
     background:white;
     color: rgb(0, 0, 0);
@@ -91,10 +91,30 @@ body h2 {
     border: 1px solid #000;
     border-collapse: collapse;
     text-align: center;
-    /* word-break: break-word; */
 }
 
-.wiki-bot-cores-content-table td{ 
+.wiki-universal_bot-cores-content-table td{ 
+    padding: 4px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.wiki-class_specific-cores-content-table{
+    width: 800px;
+    background:white;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.wiki-class_specific-cores-content-table th {
+    background: #ccc;
+    border: 1px solid #000;
+}
+
+.wiki-class_specific-cores-content-table td{ 
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
@@ -112,8 +132,13 @@ body h2 {
     width: 100px;
 }
 
-.sides_of_bot-cores_table
+.sides_of_universal_bot-cores_table
 {
+    table-layout: auto;
+    width: 200px;
+}
+
+.sides_of_class_specific-cores_table{
     table-layout: auto;
     width: 200px;
 }
