@@ -12,9 +12,11 @@ body h2 {
     text-decoration-color: grey;
 }
 
+$bgColor_red: red;
+
 .title {
     font-size: 30px;
-    color: red;
+    color: $bgColor_red;
 }
 
 .cores-green-color {
@@ -30,7 +32,7 @@ body h2 {
 }
 
 .cores-red-color {
-    color: red;
+    color: $bgColor_red;
 }
 
 .cores-blue-color {
@@ -79,7 +81,7 @@ body h2 {
   font-size: 20px;
 }
 .wiki-content-table a {
-    color: red;
+    color: $bgColor_red;
 }
 
 .wiki-universal_bot-cores-content-table th {
