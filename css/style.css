@@ -12,11 +12,9 @@ body h2 {
     text-decoration-color: grey;
 }
 
-$bgColor_red: red;
-
 .title {
     font-size: 30px;
-    color: $bgColor_red;
+    color: red;
 }
 
 .cores-green-color {
@@ -32,7 +30,7 @@ $bgColor_red: red;
 }
 
 .cores-red-color {
-    color: $bgColor_red;
+    color: red;
 }
 
 .cores-blue-color {
@@ -81,7 +79,7 @@ $bgColor_red: red;
   font-size: 20px;
 }
 .wiki-content-table a {
-    color: $bgColor_red;
+    color: red;
 }
 
 .wiki-universal_bot-cores-content-table th {
@@ -99,7 +97,7 @@ $bgColor_red: red;
     text-align: center;
 }
 
-.wiki-universal_bot-cores-content-table td{ 
+.wiki-universal_bot-cores-content-table td{
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
@@ -120,7 +118,7 @@ $bgColor_red: red;
     border: 1px solid #000;
 }
 
-.wiki-class_specific-cores-content-table td{ 
+.wiki-class_specific-cores-content-table td{
     padding: 4px;
     border: 1px solid #000;
     border-collapse: collapse;
@@ -223,12 +221,12 @@ $bgColor_red: red;
 .download-now {
     width: 125px;
     margin: 10px;
-    color: white; 
+    color: white;
 }
 
 .spaceape-logo{
     width: 300px;
-    color: white; 
+    color: white;
 }
 
 .game_basics_nav li{
