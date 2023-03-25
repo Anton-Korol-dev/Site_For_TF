@@ -232,3 +232,67 @@ body h2 {
 .game_basics_nav li{
     list-style-type: decimal;
 }
+
+.container {
+    display: grid;
+}
+
+#one {
+    grid-area: header;
+}
+
+#two {
+    grid-area: bot-bio;
+}
+
+#three {
+    grid-area: bot-table;
+}
+
+#four {
+    grid-area: con-bio;
+}
+
+#five {
+    grid-area: con-table;
+}
+
+#six {
+    grid-area: ability;
+}
+
+#seven {
+    grid-area: statistic;
+}
+
+#eight {
+    grid-area: footer;
+}
+
+@media (max-width: 600px) {
+    .container {
+        grid-template-columns:  1fr;
+        grid-template-rows: auto auto auto auto auto;
+        grid-template-areas: 'header'
+                            'bot-bio'
+                            'bot-table'
+                            'con-bio'
+                            'con-table'
+                            'ability'
+                            'statistic'
+                            'footer';
+    }
+}
+
+@media (min-width: 601px) {
+    .container {
+        grid-template-columns:  3fr 1fr;
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas: 'header header'
+                            'bot-bio bot-table'
+                            'con-bio con-table'
+                            'ability ability'
+                            'statistic statistic'
+                            'footer footer';
+    }
+}
